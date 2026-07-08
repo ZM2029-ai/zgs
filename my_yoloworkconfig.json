@@ -1,0 +1,12 @@
+{
+	"model_file": "/opt/hobot/model/x5/basic/my_model.bin",
+	"dnn_Parser": "yolov8",
+	"model_output_count": 6,
+	"reg_max": 16,
+	"class_num": 3,
+	"cls_names_list": "config/my_classes.list",
+	"strides": [8, 16, 32],
+	"score_threshold": 0.7,
+	"nms_threshold": 0.7,
+	"nms_top_k": 300
+}
