@@ -1,4 +1,4 @@
-# 基于 RDK X5 的博物馆智能服务与安防巡检机器人系统
+# 基于 RDK X5 的博物馆智能服务与安防巡检机器人
 
 <p align="center">
   <b>Smart Museum Service & Security Patrol Robot Based on Horizon RDK X5</b>
